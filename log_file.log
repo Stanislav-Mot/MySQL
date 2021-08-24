@@ -1,0 +1,365 @@
+2021-08-24 13:13:29 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:13:33 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:13:33 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 13:15:27 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:15:29 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:15:29 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 13:19:01 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:19:03 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:19:03 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 13:19:58 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:20:00 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:20:00 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 13:20:49 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:20:51 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:20:51 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 13:23:02 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:23:03 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:23:03 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 13:47:27 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:47:29 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:47:29 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 13:48:52 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 13:48:52 INFO  Log:25 - Connect to DB
+2021-08-24 13:48:54 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 13:48:54 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 14:02:29 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 14:02:29 INFO  Log:25 - Connect to DB
+2021-08-24 14:02:31 ERROR Log:46 - The server time zone value '???????? (????)' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2021-08-24 14:02:31 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 14:09:40 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 14:09:40 INFO  Log:25 - Connect to DB
+2021-08-24 14:09:40 INFO  Log:25 - Connection completed
+2021-08-24 14:09:40 INFO  Log:25 - Connect to DB
+2021-08-24 14:09:40 INFO  Log:25 - Connection completed
+2021-08-24 14:09:42 INFO  Log:25 - Table is created
+2021-08-24 14:09:42 INFO  Log:25 - Closing connection completed
+2021-08-24 14:09:42 INFO  Log:25 - Closing statement completed
+2021-08-24 14:09:42 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 15:22:53 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 15:22:53 INFO  Log:25 - Connect to DB
+2021-08-24 15:22:53 INFO  Log:25 - Connection completed
+2021-08-24 15:22:53 INFO  Log:25 - Connect to DB
+2021-08-24 15:22:53 INFO  Log:25 - Connection completed
+2021-08-24 15:22:53 ERROR Log:46 - Insertion into table isn't completed successfully: Field 'ID' doesn't have a default value
+2021-08-24 15:22:53 INFO  Log:25 - Closing connection completed
+2021-08-24 15:22:53 INFO  Log:25 - Closing statement completed
+2021-08-24 15:22:53 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 15:25:36 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 15:25:36 INFO  Log:25 - Connect to DB
+2021-08-24 15:25:36 INFO  Log:25 - Connection completed
+2021-08-24 15:25:36 INFO  Log:25 - Connect to DB
+2021-08-24 15:25:36 INFO  Log:25 - Connection completed
+2021-08-24 15:25:36 INFO  Log:25 - Insertion into table is completed successfully
+2021-08-24 15:25:36 INFO  Log:25 - Closing connection completed
+2021-08-24 15:25:36 INFO  Log:25 - Closing statement completed
+2021-08-24 15:25:36 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 15:30:20 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 15:30:20 INFO  Log:25 - Connect to DB
+2021-08-24 15:30:20 INFO  Log:25 - Connection completed
+2021-08-24 15:30:20 INFO  Log:25 - Connect to DB
+2021-08-24 15:30:20 INFO  Log:25 - Connection completed
+2021-08-24 15:30:21 ERROR Log:46 - Insertion into table isn't completed successfully: Duplicate entry '1' for key 'people.ID'
+2021-08-24 15:30:21 INFO  Log:25 - Closing connection completed
+2021-08-24 15:30:21 INFO  Log:25 - Closing statement completed
+2021-08-24 15:30:21 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 15:33:08 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 15:33:08 INFO  Log:25 - Connect to DB
+2021-08-24 15:33:08 INFO  Log:25 - Connection completed
+2021-08-24 15:33:08 INFO  Log:25 - Connect to DB
+2021-08-24 15:33:08 INFO  Log:25 - Connection completed
+2021-08-24 15:33:08 ERROR Log:46 - Insertion into table isn't completed successfully: Duplicate entry '1' for key 'people.ID'
+2021-08-24 15:33:08 INFO  Log:25 - Closing connection completed
+2021-08-24 15:33:08 INFO  Log:25 - Closing statement completed
+2021-08-24 15:33:08 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 15:33:47 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 15:33:47 INFO  Log:25 - Connect to DB
+2021-08-24 15:33:48 INFO  Log:25 - Connection completed
+2021-08-24 15:33:48 INFO  Log:25 - Connect to DB
+2021-08-24 15:33:48 INFO  Log:25 - Connection completed
+2021-08-24 15:33:48 ERROR Log:46 - Insertion into table isn't completed successfully: Duplicate entry '1' for key 'people.ID'
+2021-08-24 15:33:48 INFO  Log:25 - Closing connection completed
+2021-08-24 15:33:48 INFO  Log:25 - Closing statement completed
+2021-08-24 15:33:48 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 15:39:28 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 15:39:28 INFO  Log:25 - Connect to DB
+2021-08-24 15:39:28 INFO  Log:25 - Connection completed
+2021-08-24 15:39:28 INFO  Log:25 - Connect to DB
+2021-08-24 15:39:28 INFO  Log:25 - Connection completed
+2021-08-24 15:39:28 ERROR Log:46 - Insertion into table isn't completed successfully: Duplicate entry '1' for key 'people.ID'
+2021-08-24 15:39:29 INFO  Log:25 - Closing connection completed
+2021-08-24 15:39:29 INFO  Log:25 - Closing statement completed
+2021-08-24 15:39:29 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 15:40:50 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 15:40:50 INFO  Log:25 - Connect to DB
+2021-08-24 15:40:50 INFO  Log:25 - Connection completed
+2021-08-24 15:40:50 INFO  Log:25 - Connect to DB
+2021-08-24 15:40:50 INFO  Log:25 - Connection completed
+2021-08-24 15:40:50 ERROR Log:46 - Insertion into table isn't completed successfully: Duplicate entry '1' for key 'people.ID'
+2021-08-24 15:40:50 INFO  Log:25 - Closing connection completed
+2021-08-24 15:40:50 INFO  Log:25 - Closing statement completed
+2021-08-24 15:40:50 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 16:09:13 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 16:09:13 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:14 INFO  Log:25 - Connection completed
+2021-08-24 16:09:14 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:14 INFO  Log:25 - Connection completed
+2021-08-24 16:09:14 ERROR Log:46 - Insertion into table isn't completed successfully: Unknown column 'DataForTest.ID' in 'field list'
+2021-08-24 16:09:14 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:14 INFO  Log:25 - Connection completed
+2021-08-24 16:09:14 INFO  Log:25 - Closing connection completed
+2021-08-24 16:09:14 INFO  Log:25 - Closing statement completed
+2021-08-24 16:09:14 INFO  Log:25 - Closing resultSet completed
+2021-08-24 16:09:14 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 16:09:48 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 16:09:48 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:49 INFO  Log:25 - Connection completed
+2021-08-24 16:09:49 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:49 INFO  Log:25 - Connection completed
+2021-08-24 16:09:49 ERROR Log:46 - Table isn't created: Table 'people' already exists
+2021-08-24 16:09:49 INFO  Log:25 - Closing connection completed
+2021-08-24 16:09:49 INFO  Log:25 - Closing statement completed
+2021-08-24 16:09:49 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 16:09:55 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 16:09:55 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:55 INFO  Log:25 - Connection completed
+2021-08-24 16:09:55 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:55 INFO  Log:25 - Connection completed
+2021-08-24 16:09:55 ERROR Log:46 - Insertion into table isn't completed successfully: Unknown column 'DataForTest.ID' in 'field list'
+2021-08-24 16:09:55 INFO  Log:25 - Connect to DB
+2021-08-24 16:09:55 INFO  Log:25 - Connection completed
+2021-08-24 16:09:55 INFO  Log:25 - Closing connection completed
+2021-08-24 16:09:55 INFO  Log:25 - Closing statement completed
+2021-08-24 16:09:55 INFO  Log:25 - Closing resultSet completed
+2021-08-24 16:09:55 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 16:10:47 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 16:10:47 INFO  Log:25 - Connect to DB
+2021-08-24 16:10:47 INFO  Log:25 - Connection completed
+2021-08-24 16:10:47 INFO  Log:25 - Connect to DB
+2021-08-24 16:10:47 INFO  Log:25 - Connection completed
+2021-08-24 16:10:47 ERROR Log:46 - Insertion into table isn't completed successfully: Unknown column 'DataForTest.ID' in 'field list'
+2021-08-24 16:10:47 INFO  Log:25 - Connect to DB
+2021-08-24 16:10:47 INFO  Log:25 - Connection completed
+2021-08-24 16:10:47 INFO  Log:25 - Closing connection completed
+2021-08-24 16:10:47 INFO  Log:25 - Closing statement completed
+2021-08-24 16:10:47 INFO  Log:25 - Closing resultSet completed
+2021-08-24 16:10:47 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 16:20:26 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 16:20:26 INFO  Log:25 - Connect to DB
+2021-08-24 16:20:26 INFO  Log:25 - Connection completed
+2021-08-24 16:20:26 INFO  Log:25 - Connect to DB
+2021-08-24 16:20:26 INFO  Log:25 - Connection completed
+2021-08-24 16:20:28 INFO  Log:25 - Table is created
+2021-08-24 16:20:28 INFO  Log:25 - Closing connection completed
+2021-08-24 16:20:28 INFO  Log:25 - Closing statement completed
+2021-08-24 16:20:28 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 18:11:29 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 18:11:29 INFO  Log:25 - Connect to DB
+2021-08-24 18:11:29 INFO  Log:25 - Connection completed
+2021-08-24 18:11:29 INFO  Log:25 - Connect to DB
+2021-08-24 18:11:29 INFO  Log:25 - Connection completed
+2021-08-24 18:11:29 ERROR Log:46 - Insertion into table isn't completed successfully: Unknown column 'DataForTest.ID' in 'field list'
+2021-08-24 18:11:30 INFO  Log:25 - Closing connection completed
+2021-08-24 18:11:30 INFO  Log:25 - Closing statement completed
+2021-08-24 18:11:30 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 18:17:39 INFO  Log:25 - ------- Started test: testCreateTable() -------
+2021-08-24 18:17:39 INFO  Log:25 - Connect to DB
+2021-08-24 18:17:39 INFO  Log:25 - Connection completed
+2021-08-24 18:17:39 INFO  Log:25 - Connect to DB
+2021-08-24 18:17:39 INFO  Log:25 - Connection completed
+2021-08-24 18:17:43 INFO  Log:25 - Table is created
+2021-08-24 18:17:43 INFO  Log:25 - Closing connection completed
+2021-08-24 18:17:43 INFO  Log:25 - Closing statement completed
+2021-08-24 18:17:43 INFO  Log:25 - ------- Finished test: testCreateTable() -------
+2021-08-24 18:17:50 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 18:17:51 INFO  Log:25 - Connect to DB
+2021-08-24 18:17:51 INFO  Log:25 - Connection completed
+2021-08-24 18:17:51 INFO  Log:25 - Connect to DB
+2021-08-24 18:17:51 INFO  Log:25 - Connection completed
+2021-08-24 18:17:51 ERROR Log:46 - Insertion into table isn't completed successfully: Column count doesn't match value count at row 1
+2021-08-24 18:17:51 INFO  Log:25 - Closing connection completed
+2021-08-24 18:17:51 INFO  Log:25 - Closing statement completed
+2021-08-24 18:17:51 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 18:18:30 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 18:18:30 INFO  Log:25 - Connect to DB
+2021-08-24 18:18:30 INFO  Log:25 - Connection completed
+2021-08-24 18:18:30 INFO  Log:25 - Connect to DB
+2021-08-24 18:18:30 INFO  Log:25 - Connection completed
+2021-08-24 18:18:30 ERROR Log:46 - Insertion into table isn't completed successfully: Field 'Id' doesn't have a default value
+2021-08-24 18:18:30 INFO  Log:25 - Closing connection completed
+2021-08-24 18:18:30 INFO  Log:25 - Closing statement completed
+2021-08-24 18:18:30 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 18:18:57 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 18:18:57 INFO  Log:25 - Connect to DB
+2021-08-24 18:18:57 INFO  Log:25 - Connection completed
+2021-08-24 18:18:57 INFO  Log:25 - Connect to DB
+2021-08-24 18:18:58 INFO  Log:25 - Connection completed
+2021-08-24 18:18:58 INFO  Log:25 - Insertion into table is completed successfully
+2021-08-24 18:18:58 INFO  Log:25 - Closing connection completed
+2021-08-24 18:18:58 INFO  Log:25 - Closing statement completed
+2021-08-24 18:18:58 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 18:21:18 INFO  Log:25 - ------- Started test: testInsertInto() -------
+2021-08-24 18:21:18 INFO  Log:25 - Connect to DB
+2021-08-24 18:21:18 INFO  Log:25 - Connection completed
+2021-08-24 18:21:18 INFO  Log:25 - Connect to DB
+2021-08-24 18:21:18 INFO  Log:25 - Connection completed
+2021-08-24 18:21:18 ERROR Log:46 - Insertion into table isn't completed successfully: Duplicate entry '1' for key 'people.Id'
+2021-08-24 18:21:18 INFO  Log:25 - Connect to DB
+2021-08-24 18:21:18 INFO  Log:25 - Connection completed
+2021-08-24 18:21:18 INFO  Log:25 - Closing connection completed
+2021-08-24 18:21:18 INFO  Log:25 - Closing statement completed
+2021-08-24 18:21:18 INFO  Log:25 - Closing resultSet completed
+2021-08-24 18:21:18 INFO  Log:25 - ------- Finished test: testInsertInto() -------
+2021-08-24 18:35:55 INFO  Log:25 - ------- Started test: testUpdateOfTable() -------
+2021-08-24 18:35:55 INFO  Log:25 - Connect to DB
+2021-08-24 18:35:56 INFO  Log:25 - Connection completed
+2021-08-24 18:35:56 INFO  Log:25 - Connect to DB
+2021-08-24 18:35:56 INFO  Log:25 - Connection completed
+2021-08-24 18:35:56 INFO  Log:25 - Update of table is completed successfully
+2021-08-24 18:35:56 INFO  Log:25 - Connect to DB
+2021-08-24 18:35:56 INFO  Log:25 - Connection completed
+2021-08-24 18:35:56 INFO  Log:25 - Closing connection completed
+2021-08-24 18:35:56 INFO  Log:25 - Closing statement completed
+2021-08-24 18:35:56 INFO  Log:25 - Closing resultSet completed
+2021-08-24 18:35:56 INFO  Log:25 - ------- Finished test: testUpdateOfTable() -------
+2021-08-24 19:08:19 INFO  Log:25 - ------- Started test: testSelect() -------
+2021-08-24 19:08:19 INFO  Log:25 - Connect to DB
+2021-08-24 19:08:19 INFO  Log:25 - Connection completed
+2021-08-24 19:08:19 INFO  Log:25 - Connect to DB
+2021-08-24 19:08:19 INFO  Log:25 - Connection completed
+2021-08-24 19:08:20 INFO  Log:25 - Closing connection completed
+2021-08-24 19:08:20 INFO  Log:25 - Closing statement completed
+2021-08-24 19:08:20 INFO  Log:25 - Closing resultSet completed
+2021-08-24 19:08:20 INFO  Log:25 - ------- Finished test: testSelect() -------
+2021-08-24 19:09:01 INFO  Log:25 - ------- Started test: testSelectWithWhere() -------
+2021-08-24 19:09:01 INFO  Log:25 - Connect to DB
+2021-08-24 19:09:01 INFO  Log:25 - Connection completed
+2021-08-24 19:09:01 INFO  Log:25 - Connect to DB
+2021-08-24 19:09:01 INFO  Log:25 - Connection completed
+2021-08-24 19:09:01 INFO  Log:25 - Closing connection completed
+2021-08-24 19:09:01 INFO  Log:25 - Closing statement completed
+2021-08-24 19:09:01 INFO  Log:25 - Closing resultSet completed
+2021-08-24 19:09:01 INFO  Log:25 - ------- Finished test: testSelectWithWhere() -------
+2021-08-24 19:19:53 INFO  Log:25 - ------- Started test: testSelectWithJoin() -------
+2021-08-24 19:19:53 INFO  Log:25 - Connect to DB
+2021-08-24 19:19:53 INFO  Log:25 - Connection completed
+2021-08-24 19:19:53 INFO  Log:25 - Connect to DB
+2021-08-24 19:19:53 INFO  Log:25 - Connection completed
+2021-08-24 19:19:53 INFO  Log:25 - Closing connection completed
+2021-08-24 19:19:53 INFO  Log:25 - Closing statement completed
+2021-08-24 19:19:53 INFO  Log:25 - Closing resultSet completed
+2021-08-24 19:19:53 INFO  Log:25 - ------- Finished test: testSelectWithJoin() -------
+2021-08-24 19:22:03 INFO  Log:25 - ------- Started test: testSelectWithJoin() -------
+2021-08-24 19:22:03 INFO  Log:25 - Connect to DB
+2021-08-24 19:22:03 INFO  Log:25 - Connection completed
+2021-08-24 19:22:03 INFO  Log:25 - Connect to DB
+2021-08-24 19:22:03 INFO  Log:25 - Connection completed
+2021-08-24 19:22:03 INFO  Log:25 - Closing connection completed
+2021-08-24 19:22:03 INFO  Log:25 - Closing statement completed
+2021-08-24 19:22:03 INFO  Log:25 - Closing resultSet completed
+2021-08-24 19:22:03 INFO  Log:25 - ------- Finished test: testSelectWithJoin() -------
+2021-08-24 19:23:16 INFO  Log:25 - ------- Started test: testSelectWithJoin() -------
+2021-08-24 19:23:16 INFO  Log:25 - Connect to DB
+2021-08-24 19:23:17 INFO  Log:25 - Connection completed
+2021-08-24 19:23:17 INFO  Log:25 - Connect to DB
+2021-08-24 19:23:17 INFO  Log:25 - Connection completed
+2021-08-24 19:23:17 ERROR Log:46 - Unknown column 'ABW' in 'where clause'
+2021-08-24 19:23:17 INFO  Log:25 - Closing connection completed
+2021-08-24 19:23:17 INFO  Log:25 - Closing statement completed
+2021-08-24 19:23:17 INFO  Log:25 - ------- Finished test: testSelectWithJoin() -------
+2021-08-24 19:23:46 INFO  Log:25 - ------- Started test: testSelectWithJoin() -------
+2021-08-24 19:23:46 INFO  Log:25 - Connect to DB
+2021-08-24 19:23:47 INFO  Log:25 - Connection completed
+2021-08-24 19:23:47 INFO  Log:25 - Connect to DB
+2021-08-24 19:23:47 INFO  Log:25 - Connection completed
+2021-08-24 19:23:47 ERROR Log:46 - Unknown column 'ABW' in 'where clause'
+2021-08-24 19:23:47 INFO  Log:25 - Closing connection completed
+2021-08-24 19:23:47 INFO  Log:25 - Closing statement completed
+2021-08-24 19:23:47 INFO  Log:25 - ------- Finished test: testSelectWithJoin() -------
+2021-08-24 19:24:28 INFO  Log:25 - ------- Started test: testSelectWithJoin() -------
+2021-08-24 19:24:28 INFO  Log:25 - Connect to DB
+2021-08-24 19:24:29 INFO  Log:25 - Connection completed
+2021-08-24 19:24:29 INFO  Log:25 - Connect to DB
+2021-08-24 19:24:29 INFO  Log:25 - Connection completed
+2021-08-24 19:24:29 ERROR Log:46 - Unknown column 'city.CountryCode' in 'on clause'
+2021-08-24 19:24:29 INFO  Log:25 - Closing connection completed
+2021-08-24 19:24:29 INFO  Log:25 - Closing statement completed
+2021-08-24 19:24:29 INFO  Log:25 - ------- Finished test: testSelectWithJoin() -------
+2021-08-24 19:24:46 INFO  Log:25 - ------- Started test: testSelectWithJoin() -------
+2021-08-24 19:24:46 INFO  Log:25 - Connect to DB
+2021-08-24 19:24:47 INFO  Log:25 - Connection completed
+2021-08-24 19:24:47 INFO  Log:25 - Connect to DB
+2021-08-24 19:24:47 INFO  Log:25 - Connection completed
+2021-08-24 19:24:47 INFO  Log:25 - Closing connection completed
+2021-08-24 19:24:47 INFO  Log:25 - Closing statement completed
+2021-08-24 19:24:47 INFO  Log:25 - Closing resultSet completed
+2021-08-24 19:24:47 INFO  Log:25 - ------- Finished test: testSelectWithJoin() -------
+2021-08-24 19:30:51 INFO  Log:25 - ------- Started test: testDeleteFromTable() -------
+2021-08-24 19:30:51 INFO  Log:25 - Connect to DB
+2021-08-24 19:30:51 INFO  Log:25 - Connection completed
+2021-08-24 19:30:51 INFO  Log:25 - Connect to DB
+2021-08-24 19:30:51 INFO  Log:25 - Connection completed
+2021-08-24 19:30:52 INFO  Log:25 - Delete from table is completed successfully
+2021-08-24 19:30:52 INFO  Log:25 - Closing connection completed
+2021-08-24 19:30:52 INFO  Log:25 - Closing statement completed
+2021-08-24 19:30:52 INFO  Log:25 - ------- Finished test: testDeleteFromTable() -------
+2021-08-24 19:34:53 INFO  Log:25 - ------- Started test: testDeleteFromTable() -------
+2021-08-24 19:34:53 INFO  Log:25 - Connect to DB
+2021-08-24 19:34:54 INFO  Log:25 - Connection completed
+2021-08-24 19:34:54 INFO  Log:25 - Connect to DB
+2021-08-24 19:34:54 INFO  Log:25 - Connection completed
+2021-08-24 19:34:54 INFO  Log:25 - Delete from table is completed successfully
+2021-08-24 19:34:54 INFO  Log:25 - Connect to DB
+2021-08-24 19:34:54 INFO  Log:25 - Connection completed
+2021-08-24 19:34:54 INFO  Log:25 - Closing connection completed
+2021-08-24 19:34:54 INFO  Log:25 - Closing statement completed
+2021-08-24 19:34:54 INFO  Log:25 - Closing resultSet completed
+2021-08-24 19:34:54 INFO  Log:25 - ------- Finished test: testDeleteFromTable() -------
+2021-08-24 19:35:10 INFO  Log:25 - ------- Started test: testDeleteFromTable() -------
+2021-08-24 19:35:10 INFO  Log:25 - Connect to DB
+2021-08-24 19:35:10 INFO  Log:25 - Connection completed
+2021-08-24 19:35:10 INFO  Log:25 - Connect to DB
+2021-08-24 19:35:10 INFO  Log:25 - Connection completed
+2021-08-24 19:35:10 INFO  Log:25 - Delete from table is completed successfully
+2021-08-24 19:35:10 INFO  Log:25 - Connect to DB
+2021-08-24 19:35:10 INFO  Log:25 - Connection completed
+2021-08-24 19:35:10 INFO  Log:25 - Closing connection completed
+2021-08-24 19:35:10 INFO  Log:25 - Closing statement completed
+2021-08-24 19:35:10 INFO  Log:25 - Closing resultSet completed
+2021-08-24 19:35:10 INFO  Log:25 - ------- Finished test: testDeleteFromTable() -------
+2021-08-24 19:38:36 INFO  Log:25 - ------- Started test: testDeleteFromTable() -------
+2021-08-24 19:38:36 INFO  Log:25 - Connect to DB
+2021-08-24 19:38:36 INFO  Log:25 - Connection completed
+2021-08-24 19:38:36 INFO  Log:25 - Connect to DB
+2021-08-24 19:38:36 INFO  Log:25 - Connection completed
+2021-08-24 19:38:36 INFO  Log:25 - Delete from table is completed successfully
+2021-08-24 19:38:36 INFO  Log:25 - Closing connection completed
+2021-08-24 19:38:36 INFO  Log:25 - Closing statement completed
+2021-08-24 19:38:36 INFO  Log:25 - ------- Finished test: testDeleteFromTable() -------
+2021-08-24 19:58:07 INFO  Log:25 - ------- Started test: testDropTable() -------
+2021-08-24 19:58:07 INFO  Log:25 - Connect to DB
+2021-08-24 19:58:08 INFO  Log:25 - Connection completed
+2021-08-24 19:58:08 INFO  Log:25 - Connect to DB
+2021-08-24 19:58:08 INFO  Log:25 - Connection completed
+2021-08-24 19:58:08 ERROR Log:46 - Drop table isn't completed successfully: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM people' at line 1
+2021-08-24 19:58:08 INFO  Log:25 - Closing connection completed
+2021-08-24 19:58:08 INFO  Log:25 - Closing statement completed
+2021-08-24 19:58:08 INFO  Log:25 - ------- Finished test: testDropTable() -------
+2021-08-24 20:00:54 INFO  Log:25 - ------- Started test: testDropTable() -------
+2021-08-24 20:00:54 INFO  Log:25 - Connect to DB
+2021-08-24 20:00:54 INFO  Log:25 - Connection completed
+2021-08-24 20:00:54 INFO  Log:25 - Connect to DB
+2021-08-24 20:00:54 INFO  Log:25 - Connection completed
+2021-08-24 20:00:54 ERROR Log:46 - Drop table isn't completed successfully: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'people' at line 1
+2021-08-24 20:00:54 INFO  Log:25 - Closing connection completed
+2021-08-24 20:00:54 INFO  Log:25 - Closing statement completed
+2021-08-24 20:00:54 INFO  Log:25 - ------- Finished test: testDropTable() -------
+2021-08-24 20:03:04 INFO  Log:25 - ------- Started test: testDropTable() -------
+2021-08-24 20:03:04 INFO  Log:25 - Connect to DB
+2021-08-24 20:03:04 INFO  Log:25 - Connection completed
+2021-08-24 20:03:04 INFO  Log:25 - Connect to DB
+2021-08-24 20:03:05 INFO  Log:25 - Connection completed
+2021-08-24 20:03:07 INFO  Log:25 - Drop table is completed successfully
+2021-08-24 20:03:07 INFO  Log:25 - Closing connection completed
+2021-08-24 20:03:07 INFO  Log:25 - Closing statement completed
+2021-08-24 20:03:07 INFO  Log:25 - ------- Finished test: testDropTable() -------
